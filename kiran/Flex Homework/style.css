@@ -29,10 +29,12 @@ img{
     height: 250px;
     display: flex;
     overflow-x: unset;
+    
 }
 .sub2{
     color: white;
     font-size: xx-large;
+
 }
 img{
     width: 100%;
@@ -45,14 +47,17 @@ img{
     font-family: 'Times New Roman', Times, serif;
     height: 250px;
     display: flex;
-    overflow-y: auto;
+    overflow-x: unset;
+    
 }
 .sub3{
     color: white;
     font-size: xx-large;
+
 }
 img{
     width: 100%;
     object-fit: cover;
     margin: 20px;
+
 }

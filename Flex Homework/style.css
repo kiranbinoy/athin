@@ -10,6 +10,7 @@
     height: 250px;
     display: flex;
     overflow-x: scroll;
+    -webkit-overflow-scrolling: 10px;
 }
 
 .sub1{
@@ -59,5 +60,22 @@ img{
     width: 100%;
     object-fit: cover;
     margin: 20px;
+}
+.image4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    height: 250px;
+    display: flex;
+    overflow-x: unset;
+    
+}
+.sub4{
+    color: white;
+    font-size: xx-large;
 
+}
+img{
+    width: 100%;
+    object-fit: cover;
+    margin: 20px;
 }
